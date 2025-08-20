@@ -22,6 +22,6 @@ Users can browse products, add them to the cart, and place an order.
 ---
 
 ## 📂 Project Setup
-1. Clone this repository:  https://github.com/chfarooq1234/eCom-WebApp
+1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/ecommerce-app.git
+   git clone https://github.com/chfarooq1234/eCom-WebApp
