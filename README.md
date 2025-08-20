@@ -1,20 +1,27 @@
+# 🛒 E-Commerce Web Application
 
-aspCart
-=========
+This is a simple **ASP.NET web application** for an online e-commerce platform.  
+Users can browse products, add them to the cart, and place an order.
 
-aspCart is a basic ecommerce websites using ASP.NET Core MVC.
-This repo is just a demo project that I've been working as I learn ASP.NET Core MVC.
-All product details are either from newegg, amazon or from the product website.
-This project design is inspired by nopcommerce, opencart, newegg and amazon.
+---
 
-## Live demo
+## 🚀 Features
+- View available products with details  
+- Add products to the shopping cart  
+- User login & signup functionality  
+- Place an order online  
+- Simple and clean ASP.NET structure  
 
-[Store Front][d1] <br />
-[Admin Dashboard][d2]
+---
 
-## License
+## 🛠️ Technologies Used
+- ASP.NET (C#)  
+- HTML, CSS, JavaScript  
+- SQL Server (for storing users, products, and orders)  
 
-MIT
+---
 
-[d1]: https://aspcart.azurewebsites.net
-[d2]: https://aspcart.azurewebsites.net/Admin
+## 📂 Project Setup
+1. Clone this repository:  https://github.com/chfarooq1234/eCom-WebApp
+   ```bash
+   git clone https://github.com/yourusername/ecommerce-app.git
